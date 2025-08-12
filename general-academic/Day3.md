@@ -6,13 +6,13 @@
 | serene | အေးဆေး ဆိတ်ငြိမ်တာ | | 
 | cozy corner | ဇိမ်ရှိတာ , အေးဆေး ထိုင်လို့ရတာ | | 
 | enhance | ပိုကောင်းစေတာ | | 
-| ambiance | ဒီဇီုင်းကာလာ အနေအထား | | 
-| thrill | | | 
-| fosters | | | 
+| ambience | ဒီဇီုင်းကာလာ အနေအထား the character of a place or the quality it seems to have| Despite being a busy city, Dublin has the ambience of a country town.| 
+| thrill | a feeling of extreme excitement, usually caused by something pleasant| The trill of winning a competition .  | 
+| fosters | to take care of a child, usually for a limited time, without being the child's legal parent. <br> <br> foster means to encourage, promote, help develop, or nurture something | | 
 | conquering| အောင်နိုင်တာ | | 
 | captivated | နှိုးဆွ တာ interestingဖြစ်တာ  | | 
-| crept | စိုးရိမ်စိတ်တွေက တဖြည်း၂ များလာတာ | | 
-| adrenaline | စိတ်လှုပ်ရှားတဲ့ အခါ ဖြစ် လာတဲ့ အရာတွေ <br> | | 
+| creep . crept | စိုးရိမ်စိတ်တွေက တဖြည်း၂ များလာတာ | | 
+| adrenaline | စိတ်လှုပ်ရှားတဲ့ အခါ ဖြစ် လာတဲ့ အရာတွေ hormone <br> | | 
 
 
 ### Speaking
@@ -27,7 +27,7 @@ a class once you took => Speaking Title 1
 
 a time you were worried about / nervous / excited => Speaking Title 2
 
-Library is not very fsamiliar to me .
+Library is not very familiar to me .
 
 When it comes to study space, I have mixed feelings about it. It depends on my mood.  
 I prefer studying in a library due to its <b> serene environment </b>. Libraries provide a quiet atmosphere that minimizes distractions, allowing me to focus deeply on my work.   

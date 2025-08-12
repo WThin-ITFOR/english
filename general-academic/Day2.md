@@ -28,7 +28,7 @@ Have you already finished that book?|もう読み終えたの？|早さに驚い
 | profoundly | ကောင်းကောင်း | | 
 | cherish | ချစ်တာ မြတ်၂နိုး၂ | I cherish my job / my teahcer| 
 | gratitude | ကျေးဇူးသိ | | 
-| relect | ပြန်စဉ်းစားတာ တန်ပြန်သက်ရောက်တာ | | 
+| reflect | ပြန်စဉ်းစားတာ တန်ပြန်သက်ရောက်တာ | | 
 | impact | အကျိုး ထိရောက်မှု | |
 | a charming personality | ချစ်ဖို့ကောင်းတာ | | 
 | sympathy | ကိုယ်ချင်းစာစိတ်ရှိတာ | | 
